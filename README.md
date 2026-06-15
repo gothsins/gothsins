@@ -1,50 +1,44 @@
-<h2 align="center"> <code>&lt;Hello World!! I'm <b>Guilherme Almeida</b>! /&gt;</code></h2>
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=750&color=1E90FF&background=00000000&center=true&width=600&fade=false&lines=+Back-end+Developer" 
-         alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center" style="margin-top: 10px;">
-Back-end developer focused on building scalable RESTful APIs using <b>Java & Spring Boot</b>, with interest in system design and cloud infrastructure.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&background=00000000&center=true&width=600&lines=Estudante+de+ADS+%7C+Backend+Java+%26+Spring+Boot;Construindo+APIs+REST+com+JPA+e+Spring+Security;Em+busca+de+est%C3%A1gio+em+desenvolvimento+backend" alt="Typing SVG" />
 </p>
 
+## Sobre mim
 
-##  Tech Stack
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend usando **Java** e **Spring Boot**. Tenho me dedicado à construção de APIs RESTful aplicando práticas de mercado: autenticação com JWT, persistência com JPA, tratamento global de exceções e organização em camadas seguindo princípios de Clean Architecture e SOLID.
 
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
-  <img width="12" />
+## Stack principal
 
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate/JPA" alt="Hibernate" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</p>
 
-##  Skills
-- Java (OOP, collections, data structures, console applications, and API fundamentals)
-- Programming Logic and Algorithms
-- Git and version control
-- Problem-solving and analytical thinking
+## Projetos em destaque
+
+### 🔹 [finance-api](https://github.com/gothsins/finance-api)
+API REST de controle financeiro pessoal com autenticação JWT, modelagem relacional (User, Transaction, Category), DTOs e tratamento global de exceções.
+
+### 🔹 [estoque-api](https://github.com/gothsins/estoque-api)
+API de gerenciamento de inventário com arquitetura em camadas, tratamento global de erros (RFC 7807) e validação de dados com Jakarta Bean Validation.
+
+## Conecte-se
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/almeida-guilherme1999/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/almeida-guilherme1999/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gothsins&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats"/>
+</p>
