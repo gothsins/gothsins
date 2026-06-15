@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&background=00000000&center=true&width=600&lines=Estudante+de+ADS+%7C+Backend+Java+%26+Spring+Boot;Construindo+APIs+REST+com+JPA+e+Spring+Security;Em+busca+de+est%C3%A1gio+em+desenvolvimento+backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&background=00000000&center=true&width=600&lines=Estudante+de+ADS+%7C+Backend+Java+%26+Spring+Boot;Construindo+APIs+REST+com+JPA+e+Spring+Security;Backend+Devloper" alt="Typing SVG" />
 </p>
 
 ## Sobre mim
