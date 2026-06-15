@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&background=00000000&center=true&width=600&lines=Estudante+de+ADS+%7C+Backend+Java+%26+Spring+Boot;Construindo+APIs+REST+com+JPA+e+Spring+Security;Backend+Devloper" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E90FF&background=00000000&center=true&width=600&lines=Backend+Developer" alt="Typing SVG" />
 </p>
 
 ## Sobre mim
@@ -29,7 +29,7 @@ API REST de controle financeiro pessoal com autenticação JWT, modelagem relaci
 ### 🔹 [estoque-api](https://github.com/gothsins/estoque-api)
 API de gerenciamento de inventário com arquitetura em camadas, tratamento global de erros (RFC 7807) e validação de dados com Jakarta Bean Validation.
 
-## Conecte-se
+## Perfil
 
 <p align="left">
   <a href="https://www.linkedin.com/in/almeida-guilherme1999/" target="_blank">
